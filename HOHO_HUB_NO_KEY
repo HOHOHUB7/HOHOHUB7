@@ -1,0 +1,5 @@
+while true do
+	_G.Mode = "English"
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Tuxoz/VectorHub/main/MBPC"))()
+	wait(.100)
+    end
